@@ -26,7 +26,7 @@ Te dejo la siguiente documentación sobre BEM:
 
 ### HTML
 
-```
+```html
 <header>
   <p>LOGO</p>
   <ul>
@@ -169,7 +169,3 @@ footer p {
 1. Hacer un "Fork" de este proyecto.
 2. Revolver el reto.
 3. Crear un Pull Request hacia este repositorio.
-
-## 🎨 Licencia
-
-challenge-html-06 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
