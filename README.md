@@ -133,7 +133,7 @@ main {
 
 Puedes usar mixins con parámetros
 
-```
+```css
 footer {
   background: HONEYDEW;
   display: flex;
