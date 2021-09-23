@@ -170,10 +170,6 @@ footer p {
 2. Revolver el reto.
 3. Crear un Pull Request hacia este repositorio.
 
-## 🎨 ¿Cómo contribuir?
-
-Si quieres agregar o mejorar algo, te invito a colaborar directamente en este repositorio: [challenge-html-07](https://github.com/platzimaster/challenge-html-07/)
-
 ## 🎨 Licencia
 
 challenge-html-06 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
