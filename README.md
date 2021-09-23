@@ -74,7 +74,7 @@ Te dejo la siguiente documentación sobre BEM:
 
 ### SASS hasta el momento:
 
-```
+```scss
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
